@@ -1,6 +1,6 @@
 # Roblox Captcha Fetching Bot
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/your-username/roblox-captcha-bot/Python%20application)
+![GitHub Release](https://github.com/nxkiss/captcha/releases/tag/v.0.1.0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/roblox-captcha-bot)
 
 This is a simple bot that fetches the captcha image from Roblox's website and uses it to login to an account.
